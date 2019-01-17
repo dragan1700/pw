@@ -1,11 +1,11 @@
 pw
 ==
 
-ProcessWire code snippets
+ProcessWire API code snippets
 
 These are various bits and pieces I have used at one point or another. 
 
-Some of these snippets are used in almost every PW installation, others only for very specific use cases.
+Some of these snippets I use in almost every PW installation, others only for very specific use cases.
 
 The first batch of snippets are quite old (5 years, i.e. PW 2.x). I don't regularly scan all those snippets and update them to the latest PW 3 dev API code-base. ProcessWire being a very robust piece of software though, I guess most code-pieces are still usable as-is today. 
 
