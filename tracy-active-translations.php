@@ -1,3 +1,5 @@
+<?php
+
 $pgs = $pages->find("has_parent!=2, id!=2, id!=7,status=1");
 
 // using <pre>, \n + \t, we can copy and paste it for use in spreadsheets
