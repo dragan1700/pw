@@ -1,3 +1,4 @@
+<?php
 // inject your own custom JS + CSS into admin templates
 // place in site/ready.php
 // when using AdminOnSteroids, perhaps obsolete (especially for theme-overrides)
