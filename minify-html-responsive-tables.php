@@ -1,3 +1,4 @@
+<?php
 // minify HTML for frontend pages
 // wrap HTML-tables in container DIVs (to make them responsive via CSS)
 // use in site/ready.php
