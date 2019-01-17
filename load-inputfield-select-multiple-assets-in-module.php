@@ -1,3 +1,4 @@
+<?php
 // load necessary admin JS/CSS assets for pagelist select multiple
 // https://processwire.com/talk/topic/18083-create-inputfieldpagelistselectmultiple-inside-module/?tab=comments#comment-158555
 // use in site/ready.php
