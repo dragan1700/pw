@@ -11,4 +11,4 @@ The first batch of snippets are quite old (5 years, i.e. PW 2.x). I don't regula
 
 If you happen to use a snippet from this repo and you find it doesn't work (anymore), or you realize it could be rewritten in a much smarter or efficient way, I'd be happy to hear your suggestions.
 
-You can find on the PW forum @ https://processwire.com/talk/profile/1325-dragan/
+You can find me on the PW forum @ https://processwire.com/talk/profile/1325-dragan/
