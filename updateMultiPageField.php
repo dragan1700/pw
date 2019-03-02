@@ -4,6 +4,9 @@
 // multi-page input fields arent' recognized
 // hence, an additional API page-update is necessary
 
-$p = $pages->get(2025);$p->setOutputFormatting(false);$p->prod_material=1165; $p->save();
+$p = $pages->get(2025);
+$p->setOutputFormatting(false);
+$p->prod_material=1165; 
+$p->save();
 
 ?>
