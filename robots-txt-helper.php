@@ -15,7 +15,7 @@ $team = $pages->findIds("parent=1098, template=employee, include=all, sort=id");
 $dir = $config->urls->assets;
 echo "<pre>";
 echo "User-agent: * \n";
-	foreach($team as $id) {
- echo "Disallow: $dir$id/\n";
+foreach($team as $id) {
+	echo "Disallow: $dir$id/\n";
 }
 echo "</pre>";
