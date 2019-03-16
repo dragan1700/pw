@@ -1,0 +1,23 @@
+/*
+
+Fixes bug when displaying images in Lister Pro.
+See https://processwire.com/talk/topic/21041-images-not-viewable/?tab=comments#comment-182388 for more details.
+
+*/
+
+#ProcessListerResults .gridImage__overflow {
+    width: 100% !important; /* overwrite inline-styles injected with JS */
+}
+
+#ProcessListerResults .gridImage__overflow>img {
+	position: relative;
+	top: inherit;
+	left: inherit;
+	-ms-transform: none;
+	transform: none;
+	width: 100%;
+}
+
+#ProcessListerResults li.gridImage {
+	display: block; /* personal taste: instead of inline-block */
+}
