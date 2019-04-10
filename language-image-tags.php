@@ -1,3 +1,5 @@
+<?php
+
 // use-case: if you use language image-tags, and want to show the images of the user's current language 
 // first, and everything else later
 // https://processwire.com/talk/topic/21246-images-gallery-sorting-order-based-on-language/?tab=comments#comment-183814
